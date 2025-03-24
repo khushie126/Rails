@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  book: one
+  title: MyString
+  body: MyText
+  rating: 1
+  state: 1
+
+two:
+  customer: two
+  book: two
+  title: MyString
+  body: MyText
+  rating: 1
+  state: 1
